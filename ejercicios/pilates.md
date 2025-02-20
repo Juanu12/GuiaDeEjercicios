@@ -18,3 +18,11 @@ El Cien es uno de los ejercicios más emblemáticos del Pilates. Ayuda a fortale
 4. Extiende los brazos hacia los lados del cuerpo, paralelos al suelo.
 5. Comienza a bombear los brazos hacia arriba y hacia abajo a unos 20 cm del suelo mientras exhalas e inhalas profundamente, realizando 5 respiraciones completas (5 pulsos hacia arriba por cada inhalación y exhalación).
 6. Repite durante 100 pulsos o hasta que sientas que el core está activado y que puedes mantener la postura.
+
+## Consejos:
+- Mantén el abdomen contraído y evita que la espalda baja se arquee.
+- Respira profundamente durante todo el ejercicio para oxigenar los músculos.
+- Si eres principiante, puedes mantener las piernas dobladas en un ángulo de 90 grados hasta ganar más fuerza.
+- Asegúrate de que los hombros estén relajados y que no los levantes hacia las orejas.
+- Mantén los brazos firmes pero relajados mientras haces los movimientos.
+
