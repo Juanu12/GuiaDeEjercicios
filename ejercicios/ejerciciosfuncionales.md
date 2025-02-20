@@ -16,3 +16,10 @@ Las sentadillas son un ejercicio funcional que trabaja principalmente las pierna
 3. Mantén el pecho arriba y la espalda recta durante el movimiento.
 4. Baja hasta que tus muslos estén paralelos al suelo o más abajo si tu flexibilidad lo permite.
 5. Empuja hacia arriba desde los talones para regresar a la posición inicial.
+
+## Consejos:
+- Mantén el peso en los talones, no en las puntas de los pies.
+- Evita que las rodillas se deslicen hacia adentro mientras realizas el movimiento.
+- No dejes que la espalda se curve; mantén el core apretado en todo momento.
+- Si eres principiante, comienza con sentadillas parciales antes de intentar sentadillas profundas.
+- Realiza un buen calentamiento antes de empezar y estiramientos al final de la rutina.
