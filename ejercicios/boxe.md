@@ -11,3 +11,10 @@ La sombra de boxeo es un ejercicio que simula un combate de boxeo sin un oponent
 5. Ayuda a liberar estrés y mejorar la concentración.
 
 
+## Instrucciones:
+1. Comienza en una posición de boxeo, con los pies al ancho de los hombros, las rodillas ligeramente flexionadas, y los puños levantados frente a tu cara.
+2. Realiza movimientos de golpeo como si estuvieras peleando contra un oponente invisible. Alterna entre jab, cross, uppercut y ganchos.
+3. Mantén los movimientos rápidos y controlados, enfocándote en la técnica de cada golpe.
+4. Agrega movimiento de pies para mejorar la movilidad, deslizándote hacia adelante, atrás y de lado mientras lanzas los golpes.
+5. Haz sesiones de 3-5 minutos, descansando 30 segundos entre cada ronda.
+
