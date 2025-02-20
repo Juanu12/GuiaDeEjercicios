@@ -15,6 +15,12 @@
 2. **Pull-ups**: Después de completar el thruster, realiza una dominada (pull-up), colgándote de una barra con las palmas de las manos mirando hacia afuera. Tira de tu cuerpo hacia arriba hasta que tu barbilla pase por encima de la barra, luego baja controladamente.
 3. Completa las repeticiones de **thrusters** y **pull-ups** en el ciclo, repitiendo durante 21, 15 y 9 repeticiones, respectivamente (21 thrusters + 21 pull-ups, luego 15 y 9).
 
+## Consejos:
+- Mantén la espalda recta durante los thrusters para evitar lesiones en la columna.
+- Realiza las dominadas con un movimiento controlado, no "balanceándote" para evitar un esfuerzo innecesario.
+- Si eres principiante, puedes reducir el número de repeticiones o usar asistencia para las dominadas (bandas elásticas).
+- No olvides calentar bien antes de comenzar y enfriar al finalizar.
+- Si no tienes barra para pull-ups, puedes sustituir las dominadas por pull-ups en máquina o "ring rows" (filas en anillas).
 
 
 
