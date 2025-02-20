@@ -18,3 +18,10 @@ La sombra de boxeo es un ejercicio que simula un combate de boxeo sin un oponent
 4. Agrega movimiento de pies para mejorar la movilidad, deslizándote hacia adelante, atrás y de lado mientras lanzas los golpes.
 5. Haz sesiones de 3-5 minutos, descansando 30 segundos entre cada ronda.
 
+## Consejos:
+- Mantén la guardia alta para proteger tu cara en todo momento.
+- Concéntrate en la velocidad y precisión de los golpes, no solo en la fuerza.
+- Respira de manera constante durante el ejercicio, exhalando al realizar cada golpe.
+- Si eres principiante, empieza con 1-2 minutos de sombra de boxeo y aumenta el tiempo gradualmente.
+- Realiza un calentamiento antes de comenzar y estiramientos al finalizar.
+
