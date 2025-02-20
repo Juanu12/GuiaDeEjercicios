@@ -17,3 +17,10 @@ La postura del perro boca abajo es una de las posturas más conocidas en yoga. A
 4. Intenta llevar los talones hacia el suelo (no es necesario que los toquen), manteniendo las piernas rectas.
 5. Mantén la cabeza entre los brazos, mirando hacia las piernas o hacia el abdomen, sin tensar el cuello.
 6. Respira profundamente y mantén la postura durante 20-30 segundos, luego regresa lentamente a la posición de "mesa".
+
+## Consejos:
+- Si eres principiante, puedes doblar ligeramente las rodillas si no puedes alcanzar los talones al suelo.
+- Asegúrate de que las manos estén firmemente presionadas contra el suelo para evitar cargar demasiado el peso en los hombros.
+- No dejes que la espalda se arquee; mantén la columna vertebral lo más recta posible.
+- Realiza la postura de manera suave, evitando forzar el cuerpo más allá de sus límites.
+- Respira profundamente mientras mantienes la postura para obtener todos sus beneficios.
