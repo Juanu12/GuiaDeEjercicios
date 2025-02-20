@@ -10,5 +10,11 @@
 4. Desarrolla la coordinación y el control del cuerpo.
 5. Mejora la movilidad de las caderas, los hombros y las muñecas.
 
+## Instrucciones:
+1. **Thrusters**: Comienza de pie con los pies al ancho de los hombros, sosteniendo una barra (o mancuernas) al frente de tus hombros. Realiza una sentadilla profunda, asegurándote de mantener el torso recto y las rodillas alineadas con los pies. Al subir, utiliza la fuerza de las piernas para empujar la barra sobre tu cabeza, extendiendo completamente los brazos.
+2. **Pull-ups**: Después de completar el thruster, realiza una dominada (pull-up), colgándote de una barra con las palmas de las manos mirando hacia afuera. Tira de tu cuerpo hacia arriba hasta que tu barbilla pase por encima de la barra, luego baja controladamente.
+3. Completa las repeticiones de **thrusters** y **pull-ups** en el ciclo, repitiendo durante 21, 15 y 9 repeticiones, respectivamente (21 thrusters + 21 pull-ups, luego 15 y 9).
+
+
 
 
