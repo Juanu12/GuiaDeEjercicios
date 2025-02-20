@@ -17,3 +17,10 @@ Continúa bajando hasta que el pecho casi toque el suelo.
 Empuja hacia arriba hasta volver a la posición inicial.
 Repite el movimiento de manera controlada.
 
+# Consejos:
+Mantén el core apretado para evitar que la cadera se hunda.
+Si eres principiante, puedes hacerlo apoyando las rodillas en el suelo.
+No dejes que los codos se abran demasiado hacia los lados; mantenlos a un ángulo de 45 grados respecto al torso.
+Asegúrate de no dejar que el torso se hunda durante el movimiento.
+Realiza un buen calentamiento antes de empezar y estiramientos después de terminar.
+
