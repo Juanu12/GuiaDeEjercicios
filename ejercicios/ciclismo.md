@@ -16,3 +16,12 @@ El entrenamiento de intervalos en bicicleta es una excelente manera de mejorar l
 3. Baja la intensidad y pedalea a un ritmo suave durante 1-2 minutos para recuperar.
 4. Repite el ciclo de alta y baja intensidad durante 20-30 minutos.
 5. Finaliza con un enfriamiento de 5-10 minutos a ritmo suave para reducir la frecuencia cardíaca.
+
+## Consejos:
+- Mantén la postura correcta en todo momento, con los hombros relajados y las manos firmemente en el manillar.
+- Si estás en una bicicleta estática, ajusta la resistencia para simular sprints de alta intensidad.
+- Si eres principiante, puedes comenzar con intervalos más cortos de alta intensidad y aumentar gradualmente la duración.
+- Bebe agua durante el ejercicio para mantenerte hidratado, especialmente durante los sprints.
+- Escucha a tu cuerpo y ajusta la intensidad según tu nivel de condición física.
+
+
