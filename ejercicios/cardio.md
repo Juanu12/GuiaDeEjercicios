@@ -9,3 +9,11 @@ Ayuda a quemar calorías y a reducir la grasa corporal.
 Aumenta la coordinación entre brazos y piernas.
 Estimula la circulación sanguínea.
 No requiere equipo, por lo que es fácil de hacer en cualquier lugar.
+
+# Instrucciones:
+Párate con los pies juntos y las manos a los lados de tu cuerpo.
+Salta abriendo las piernas y levantando los brazos por encima de la cabeza.
+Salta nuevamente para juntar las piernas y bajar los brazos.
+Repite el movimiento a un ritmo constante.
+Mantén el abdomen contraído y la postura recta durante el ejercicio.
+
