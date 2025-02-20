@@ -16,3 +16,10 @@ El estiramiento de los isquiotibiales es una excelente forma de mejorar la flexi
 3. Lentamente, inclina el torso hacia adelante, alcanzando los pies o las piernas.
 4. Mantén la posición durante 20-30 segundos, sintiendo el estiramiento en la parte posterior de las piernas.
 5. Regresa lentamente a la posición inicial y repite 2-3 veces.
+
+## Consejos:
+- Evita forzar el estiramiento; debes sentir una leve tensión, no dolor.
+- Mantén la espalda recta mientras te inclinas hacia adelante.
+- Respira profundamente y de manera controlada mientras estiras.
+- Si no puedes alcanzar los pies, usa una toalla o banda elástica alrededor de las plantas de los pies para ayudarte a estirarte más.
+- Realiza este estiramiento al final de tu rutina para maximizar los beneficios.
