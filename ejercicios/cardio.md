@@ -17,3 +17,10 @@ Salta nuevamente para juntar las piernas y bajar los brazos.
 Repite el movimiento a un ritmo constante.
 Mantén el abdomen contraído y la postura recta durante el ejercicio.
 
+# Consejos:
+Realiza los saltos de manera controlada para evitar lesiones.
+Asegúrate de aterrizar suavemente sobre las puntas de los pies.
+Mantén un ritmo adecuado a tu nivel de resistencia.
+Si eres principiante, puedes hacerlo en intervalos de 20 segundos con descansos.
+No olvides calentar antes de comenzar y estirar después de terminar.
+
