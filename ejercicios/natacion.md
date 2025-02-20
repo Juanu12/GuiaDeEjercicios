@@ -17,3 +17,10 @@ El estilo libre (Crawl) es uno de los estilos más rápidos y populares en la na
 4. Realiza patadas suaves y continuas con las piernas mientras nadas, manteniendo el cuerpo lo más recto posible.
 5. Continúa nadando durante 5-10 minutos a un ritmo moderado, descansando cuando sea necesario.
 
+## Consejos:
+- Concéntrate en mantener una respiración fluida y controlada, inhalando rápidamente cuando giras la cabeza.
+- Evita levantar demasiado la cabeza del agua; esto puede causar una postura incorrecta y aumentar el esfuerzo.
+- Asegúrate de que las brazadas sean largas y completas, no solo rápidas.
+- Si eres principiante, puedes alternar con descansos cortos o nadar en intervalos.
+- Realiza un calentamiento antes de nadar y estiramientos después para evitar lesiones.
+
